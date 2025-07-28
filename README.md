@@ -190,4 +190,4 @@ Authorization: Bearer <TU_TOKEN_JWT>
 ```
 ### 📄 Licencia
 
-Este proyecto está bajo la Licencia de Christian Cabrera.
+Este proyecto está bajo la Licencia MIT.
